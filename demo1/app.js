@@ -1,4 +1,4 @@
-//canvas-test server
+//demo1 server
 
 var Router = require('easy-router');
 
